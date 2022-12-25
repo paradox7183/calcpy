@@ -1,2 +1,2 @@
-# calcpy
-Calculation Python is a python script for calculate a derivate and integer Of a function
+# Mathpy
+Mathpy is a script made in python which helps you calculate the derivative of a function (It also solves the second and third derivative), in addition, it can calculate the integral
